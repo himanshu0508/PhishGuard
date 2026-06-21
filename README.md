@@ -107,7 +107,6 @@ User Input URL
 
 | Metric     | Value                                     |
 | ---------- | ----------------------------------------- |
-| Domain     | [www.rrp-mfg.com](http://www.rrp-mfg.com) |
 | Risk Score | 73/100                                    |
 | Confidence | 73%                                       |
 | Prediction | Phishing                                  |
